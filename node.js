@@ -6,7 +6,10 @@ const {response}=require('express');
 const express=require('express');
 const app=express();
 const Datastore=require('nedb');
-app.listen(5000,()=>console.log("listening at 5000"));
+require('dotenv').config();
+const port =process.env.PORT;
+app.listen(port,()=>{console.log(`starting server at ${port}`)
+});
 app.use(express.static('public'));
 app.use(express.json({limit:'1mb'}));
 const database=new Datastore('./database/database.db');
@@ -38,11 +41,12 @@ app.get('/weather/:latlon',async (request, response)=>{
     const latlon=request.params.latlon.split(',');
     console.log(latlon);
     const lat=latlon[0];
+    const api_key=process.env.API_KEY;
     const lon=latlon[1];
     console.log(lat,lon);
     // const api_url=`https://api.weather.gov/points/${lat},${lon}`;
     // const api_url=`https://api.openweathermap.org/data/2.5/weather?lat=29.101060859999993&lon=75.97290038999998&appid=2ebfb556052b3814f2c4315f9ff22850`;
-    const api_url=`https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=2ebfb556052b3814f2c4315f9ff22850`;
+    const api_url=`https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${api_key}`;
 
 
             const fetch_response=await fetch(api_url);
