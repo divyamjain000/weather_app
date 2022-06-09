@@ -1,13 +1,14 @@
 {"lat":28.6031872,"lon":77.2407296,"temp_max":316.24,"temp":315.16,"weather":"haze","timestamp":1654504128863,"_id":"52XLK6fYNa9dfBnZ"}
+{"lat":28.623025801098816,"lon":77.02723933497279,"temp_max":309.25,"temp":309.25,"weather":"haze","timestamp":1654535470007,"_id":"5Hu8Nn9y6crmfYxE"}
+{"lat":28.62302579322886,"lon":77.02723937337676,"temp_max":309.25,"temp":309.25,"weather":"haze","timestamp":1654535459768,"_id":"EU9J2fM8F5SM035G"}
+{"lat":29.10105704999999,"lon":75.97289275999997,"temp_max":311.62,"temp":311.62,"weather":"broken clouds","timestamp":1654794042153,"_id":"Mbs2OxSuaoHU4rPw"}
 {"lat":37.774929,"lon":-122.419416,"temp_max":291.74,"temp":287.6,"weather":"broken clouds","timestamp":1654504153991,"_id":"QMTcaUyZZecL4mg9"}
 {"lat":55.755826,"lon":37.6173,"temp_max":293.28,"temp":292.6,"weather":"few clouds","timestamp":1654504146519,"_id":"ggMnBg1Zx1JIRrsZ"}
 {"lat":37.774929,"lon":-122.419416,"temp_max":291.74,"temp":287.6,"weather":"broken clouds","timestamp":1654504155586,"_id":"iypiftBtuvtSvvn5"}
 {"lat":28.6031872,"lon":77.2407296,"temp_max":316.24,"temp":315.16,"weather":"haze","timestamp":1654504134288,"_id":"lTi7xnuzUdbZ35im"}
 {"lat":28.611541886497573,"lon":77.03642310649244,"temp_max":316.23,"temp":316.23,"weather":"haze","timestamp":1654504073082,"_id":"oGKMd9wBVGrt1rMk"}
+{"lat":28.622955034869126,"lon":77.02732664309153,"temp_max":309.25,"temp":309.25,"weather":"haze","timestamp":1654535691786,"_id":"oU96JzVUJgO5tApN"}
 {"lat":28.611704659821893,"lon":77.03686632042147,"temp_max":316.23,"temp":316.23,"weather":"haze","timestamp":1654504039170,"_id":"ufCxMna9h6ADSK1A"}
 {"lat":19.075984,"lon":72.877656,"temp_max":308.1,"temp":306.15,"weather":"haze","timestamp":1654504150271,"_id":"v0NaErixfJjDQBMw"}
 {"lat":28.6031872,"lon":77.2407296,"temp_max":316.24,"temp":315.16,"weather":"haze","timestamp":1654504210849,"_id":"w95OQZtAiCzFWtq0"}
 {"lat":55.755826,"lon":37.6173,"temp_max":293.28,"temp":292.6,"weather":"few clouds","timestamp":1654504144263,"_id":"y4qr2Tz50c5cEehs"}
-{"lat":28.62302579322886,"lon":77.02723937337676,"temp_max":309.25,"temp":309.25,"weather":"haze","timestamp":1654535459768,"_id":"EU9J2fM8F5SM035G"}
-{"lat":28.623025801098816,"lon":77.02723933497279,"temp_max":309.25,"temp":309.25,"weather":"haze","timestamp":1654535470007,"_id":"5Hu8Nn9y6crmfYxE"}
-{"lat":28.622955034869126,"lon":77.02732664309153,"temp_max":309.25,"temp":309.25,"weather":"haze","timestamp":1654535691786,"_id":"oU96JzVUJgO5tApN"}
